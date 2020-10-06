@@ -7,7 +7,7 @@ leave = False
 options = """
     (1)  Tic Tac Toe
     (2)  Hangman
-    (3) Number Guess
+    (3)  Number Guess
     (0)  Exit 
 """
 
